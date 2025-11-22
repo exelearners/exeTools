@@ -15,12 +15,12 @@ Logs Every Action
 It saves the details of blocked devices for future reference.
 Runs with One Command
 Just run sudo hitmiler-pro and use the tool with GUI.
-🧠 Why should you use it?
+ Why should you use it?
 Stops people from disturbing or hacking using Bluetooth.
 Useful if you live in public/shared spaces (hostels, labs, etc.)
 Keeps your Bluetooth safe and controlled.
 You don’t need to remember commands — it uses a popup menu!
-🧰 Requirements (auto-installed with .deb)
+ Requirements (auto-installed with .deb)
 bash, bluez, rfkill (for Bluetooth control)
 figlet, lolcat (for design)
 zenity (for GUI windows)
@@ -30,4 +30,4 @@ libnotify-bin (for notifications)
 License:
 
 Open-source and free to use.
-Made with ❤️ by exe learners
+Made with ❤️ by exe learners (vivek thakur)
